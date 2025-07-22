@@ -1,9 +1,3 @@
-[submodule "drone_interfaces"] 
-  path = drone_interfaces
-  url = https://github.com/jn89b/drone_interfaces
-[submodule "drone_ros"] 
-  path = drone_ros 
-  url = https://github.com/jn89b/drone_ros
 [submodule "ros2_template_package"]
 	path = ros2_template_package
 	url = https://github.com/jn89b/ros2_template_package.git
